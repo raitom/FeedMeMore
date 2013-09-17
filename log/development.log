@@ -2,3 +2,11 @@
 
 Started GET "/assets/rails.png" for 127.0.0.1 at 2013-09-17 20:59:50 +0200
 Served asset /rails.png - 200 OK (3ms)
+  MOPED: 54.226.107.117:10094 COMMAND      database=admin command={:ismaster=>1} (196.5570ms)
+  MOPED: 54.226.107.117:10094 QUERY        database=feed_me_more_development collection=users selector={"email"=>"raitomm@gmail.com"} flags=[] limit=1 skip=0 batch_size=nil fields={:_id=>1} (98.2180ms)
+  MOPED: 54.226.107.117:10094 QUERY        database=feed_me_more_development collection=users selector={"email"=>"raitomm@gmail.com"} flags=[] limit=1 skip=0 batch_size=nil fields={:_id=>1} (100.1091ms)
+  MOPED: 54.226.107.117:10094 INSERT       database=feed_me_more_development collection=users documents=[{"_id"=>"5238aabc741274003d000003", "email"=>"raitomm@gmail.com", "encrypted_password"=>"$2a$10$kblB6pZXjKTtrlASOjrwneQooT7pvDTcwQR2FEE6AJCa8CGKaetDa", "sign_in_count"=>0}] flags=[] (0.2031ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2013-09-17 21:18:47 +0200
+Served asset /rails.png - 304 Not Modified (3ms)
