@@ -15,4 +15,3 @@ end
 gem "devise", ">= 2.1.2"
 gem 'haml'
 gem 'jquery-rails'
-
