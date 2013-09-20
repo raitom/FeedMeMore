@@ -2,12 +2,52 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-html {
+body {
   margin:0;
   padding:0;
   background: url(home/bg.jpg) no-repeat center fixed;
-  -webkit-background-size: cover; /* pour Chrome et Safari */
-  -moz-background-size: cover; /* pour Firefox */
-  -o-background-size: cover; /* pour Opera */
-  background-size: cover; /* version standardisée */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  #textePresentation{
+    h1{
+      font-size: 85px;
+      color: white;
+      margin-top: 15%;
+      font-family: Tex_B;
+    }
+
+    h2{
+      font-size: 30px;
+      color: white;
+      font-family: roboto_l;
+      font-weight: light;
+    }
+  }
+  #dejaUnCompte{
+    color: white;
+    font-size: 15px;
+    font-family: roboto_l;
+
+    a{
+      text-decoration: none;
+      color: #7d9cbb;
+    }
+    a:hover{
+      text-decoration:underline;
+    }
+  }
+  #video{
+    font-size: 150px;
+    color: white;
+    float: bottom;
+    a{
+      color: white;
+    }
+    a:hover{
+      text-decoration: none;
+    }
+  }
 }

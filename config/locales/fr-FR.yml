@@ -1,5 +1,13 @@
 fr-FR:
   titre: A la pointe
+  home:
+    h1: Restez à la pointe
+    h2: Soyez au courant des dernières news sur les sujets qui VOUS intéressent.
+    facebook: "| S'inscrire avec Facebook"
+    twitter: "| S'inscrire avec Twitter"
+    email: "| S'inscrire avec une adresse e-mail"
+    dejaInscrit: Vous êtes déjà inscrit ?
+    connectezVous: Connectez-vous !
   date:
     abbr_day_names:
     - dim

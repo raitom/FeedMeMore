@@ -5,5 +5,56 @@
     %title
       =t('titre')
     %meta{name: "viewport", content: "width=device-width, initial-scale=1.0"}
+    = stylesheet_link_tag 'application'
+    = stylesheet_link_tag 'bootstrap.min'
     = stylesheet_link_tag 'home.css'
+    = stylesheet_link_tag 'social-button.css'
+    = stylesheet_link_tag 'animate'
+
+    %script{src: "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"}
+    =javascript_include_tag 'bootstrap.min'
   %body
+    .container
+      .row-fluid
+        .col-lg-12{align: 'center'}
+          #textePresentation{style: "visibility: hidden"}
+            %h1
+              =t('home.h1')
+            %h2
+              =t('home.h2')
+            %br
+            #video
+              %a{href: "#"}
+                %i.icon-play-circle
+          #boutonsConnexion{style: "visibility: hidden"}
+            %button.btn.btn-facebook
+              %i.icon-facebook
+              =t('home.facebook')
+            %button.btn.btn-twitter
+              %i.icon-twitter
+              =t('home.twitter')
+            %button.btn.btn-weibo
+              %i.icon-envelope
+              =t('home.email')
+          %br
+          %br
+          #dejaUnCompte{style: "visibility: hidden"}
+            =t('home.dejaInscrit')
+            %a{href: "#"}
+              =t('home.connectezVous')
+
+:javascript
+  setInterval(function(){
+      $('#textePresentation').css('visibility', 'visible');
+      $('#textePresentation').addClass('animated fadeInDown');
+
+      setInterval(function(){
+          $('#boutonsConnexion').css('visibility', 'visible');
+          $('#boutonsConnexion').addClass('animated bounceIn');
+
+          setInterval(function(){
+              $('#dejaUnCompte').css('visibility', 'visible');
+              $('#dejaUnCompte').addClass('animated fadeInUp');
+          }, 1000);
+      }, 1000);
+  }, 1000);
