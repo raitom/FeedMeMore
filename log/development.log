@@ -5730,3 +5730,307 @@ Started GET "/" for 127.0.0.1 at 2013-09-20 04:02:23 +0200
 Processing by HomeController#index as HTML
   Rendered home/index.html.erb within layouts/home (0.1ms)
 Completed 200 OK in 18ms (Views: 18.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-20 04:06:30 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 8ms (Views: 7.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-20 04:06:44 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Completed 200 OK in 7ms (Views: 6.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-20 04:07:10 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 13ms (Views: 13.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-20 04:46:07 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Completed 200 OK in 10ms (Views: 9.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-20 04:46:39 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (1.4ms)
+Completed 200 OK in 98ms (Views: 97.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-20 04:47:02 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Completed 200 OK in 8ms (Views: 7.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:25:21 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (1.4ms)
+Completed 200 OK in 146ms (Views: 145.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:38:12 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (53ms)  (pid 808)
+Completed 200 OK in 83ms (Views: 82.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:38:22 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 12ms (Views: 11.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:38:22 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 7ms (Views: 6.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:38:22 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 8ms (Views: 7.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:38:39 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (13ms)  (pid 808)
+Completed 200 OK in 35ms (Views: 35.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:38:44 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 7ms (Views: 6.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:39:07 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Compiled home.css  (12ms)  (pid 808)
+Completed 200 OK in 32ms (Views: 31.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:39:37 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (10ms)  (pid 808)
+Completed 200 OK in 23ms (Views: 22.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:40:07 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (9ms)  (pid 808)
+Completed 200 OK in 25ms (Views: 24.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:40:25 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (15ms)  (pid 808)
+Completed 200 OK in 42ms (Views: 42.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:42:48 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (8ms)  (pid 808)
+Completed 200 OK in 28ms (Views: 27.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:43:11 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (10ms)  (pid 808)
+Completed 200 OK in 26ms (Views: 25.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:43:24 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (12ms)  (pid 808)
+Completed 200 OK in 35ms (Views: 34.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:45:19 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Compiled home.css  (11ms)  (pid 808)
+Completed 200 OK in 25ms (Views: 24.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:45:30 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (11ms)  (pid 808)
+Completed 200 OK in 29ms (Views: 28.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:45:40 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (10ms)  (pid 808)
+Completed 200 OK in 26ms (Views: 26.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:46:00 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled home.css  (15ms)  (pid 808)
+Completed 200 OK in 30ms (Views: 30.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 15:46:06 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.2ms)
+Compiled home.css  (14ms)  (pid 808)
+Completed 200 OK in 28ms (Views: 27.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:09:53 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (1.5ms)
+Compiled fancybox/jquery.fancybox-1.3.4.css  (0ms)  (pid 1146)
+Compiled fancybox/jquery.fancybox-1.3.4.js  (0ms)  (pid 1146)
+Completed 200 OK in 126ms (Views: 125.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:11:36 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 18ms (Views: 18.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:11:54 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Completed 200 OK in 11ms (Views: 10.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:13:28 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Completed 200 OK in 17ms (Views: 16.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:13:47 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (Illegal nesting: content can't be both given on the same line as %div and nested within it.):
+    27:             %br
+    28:             #video
+    29:               #video2%a{href: "http://www.youtube.com/embed/B2q4XfgX0fs"}
+    30:                 %i.icon-play-circle
+    31:           %br
+    32:           #boutonsConnexion{style: "visibility: hidden"}
+    33:             %button.btn.btn-facebook
+  app/views/layouts/home.haml:30
+
+
+  Rendered /Users/tgeselle/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-3.2.14/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered /Users/tgeselle/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-3.2.14/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/tgeselle/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-3.2.14/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (11.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:13:49 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (Illegal nesting: content can't be both given on the same line as %div and nested within it.):
+    27:             %br
+    28:             #video
+    29:               #video2%a{href: "http://www.youtube.com/embed/B2q4XfgX0fs"}
+    30:                 %i.icon-play-circle
+    31:           %br
+    32:           #boutonsConnexion{style: "visibility: hidden"}
+    33:             %button.btn.btn-facebook
+  app/views/layouts/home.haml:30
+
+
+  Rendered /Users/tgeselle/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-3.2.14/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/tgeselle/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-3.2.14/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/tgeselle/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-3.2.14/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:14:05 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 14ms (Views: 14.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:16:26 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Compiled fancybox/jquery.fancybox-1.3.4.pack.js  (0ms)  (pid 1146)
+Completed 200 OK in 79ms (Views: 78.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:17:13 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 15ms (Views: 14.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:21:54 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Compiled fancybox/jquery.fancybox.css  (0ms)  (pid 1146)
+Compiled jquery.fancybox.pack.js  (0ms)  (pid 1146)
+Completed 200 OK in 43ms (Views: 42.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:22:22 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 14ms (Views: 14.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:23:59 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.1ms)
+Completed 200 OK in 17ms (Views: 16.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:24:04 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 10ms (Views: 9.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:24:05 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 9ms (Views: 9.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:24:09 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 48ms (Views: 48.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:29:15 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Compiled fancybox/jquery.fancybox.pack.js  (0ms)  (pid 1146)
+Compiled fancybox/jquery.fancybox.js  (0ms)  (pid 1146)
+Compiled fancybox/helpers/jquery.fancybox-media.js  (0ms)  (pid 1146)
+Completed 200 OK in 63ms (Views: 63.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-24 21:30:01 +0200
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/home (0.0ms)
+Completed 200 OK in 12ms (Views: 11.5ms)

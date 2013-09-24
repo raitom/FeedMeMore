@@ -17,6 +17,7 @@ body {
       color: white;
       margin-top: 15%;
       font-family: Tex_B;
+      text-shadow: 0 1px 1px #000;
     }
 
     h2{
@@ -24,6 +25,7 @@ body {
       color: white;
       font-family: roboto_l;
       font-weight: light;
+      text-shadow: 0 1px 1px #000;
     }
   }
   #dejaUnCompte{
@@ -41,6 +43,8 @@ body {
   }
   #video{
     font-size: 150px;
+    text-shadow: 0px 0px 10px #ffffff;
+    filter: dropshadow(color=#ffffff, offx=0, offy=0);
     color: white;
     float: bottom;
     a{

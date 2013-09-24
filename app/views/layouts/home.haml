@@ -10,9 +10,13 @@
     = stylesheet_link_tag 'home.css'
     = stylesheet_link_tag 'social-button.css'
     = stylesheet_link_tag 'animate'
+    = stylesheet_link_tag 'fancybox/jquery.fancybox'
 
     %script{src: "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"}
-    =javascript_include_tag 'bootstrap.min'
+    = javascript_include_tag 'bootstrap.min'
+    = javascript_include_tag 'fancybox/jquery.fancybox.pack'
+    = javascript_include_tag 'fancybox/jquery.fancybox'
+    = javascript_include_tag 'fancybox/helpers/jquery.fancybox-media'
   %body
     .container
       .row-fluid
@@ -24,8 +28,9 @@
               =t('home.h2')
             %br
             #video
-              %a{href: "#"}
+              %a.fancybox-media{href: "http://www.youtube.com/watch?v=B2q4XfgX0fs"}
                 %i.icon-play-circle
+          %br
           #boutonsConnexion{style: "visibility: hidden"}
             %button.btn.btn-facebook
               %i.icon-facebook
@@ -58,3 +63,14 @@
           }, 1000);
       }, 1000);
   }, 1000);
+
+  $(document).ready(function() {
+  	$('.fancybox-media').fancybox({
+  		openEffect  : 'none',
+  		closeEffect : 'none',
+  		helpers : {
+  			media : {}
+  		}
+  	});
+  });
+
